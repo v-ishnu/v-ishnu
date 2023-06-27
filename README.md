@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Mrtian](https://mrtian.in)
+- 🔭 I’m currently working on [Mrtian](https://mrtian.in), **[Codr](https://mrtian.codr.in)**
 
-- 🌱 I’m currently learning **Dart Language**
+- 🌱 I’m currently learning **Dart Language**, **BlockChain**
 
-- 📝 I regularly write articles on [https://mrtian.in](https://mrtian.in)
+- 📝 I regularly write articles on **[Mrtian](https://mrtian.in)**
 
 - 💬 Ask me about **Wordpress, Google Adsense**
 
-- 📫 How to reach me **vishnuprakash572@gmail.com**
+- 📫 How to reach me **[Email](vishnuprakash572@gmail.com)**
 
 - ⚡ Fun fact **I think I am funny**
 
