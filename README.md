@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://codepen.io/v-ishnu" target="blank"><img align="center" src="https://github.com/v-ishnu/gallery/assets/65424078/0eb7d9a6-ddcf-4c47-bbac-0ed432ebe225" alt="v-ishnu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishnuinfo" target="blank"><img align="center" src="https://github.com/vishnu/gallery/assets/65424078/87ff9af9-9f0f-4df7-84aa-e0037ef89177" alt="vishnuinfo" height="30" width="40" /></a>
-<a href="https://instagram.com/_im_vishn_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_im_vishn_u" height="30" width="40" /></a>
+<a href="https://instagram.com/_im_vishn_u" target="blank"><img align="center" src="https://github.com/v-ishnu/gallery/assets/65424078/1071fee1-bc15-4bf8-8bc0-d3da40b099a3" alt="_im_vishn_u" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vishnuprakash572" target="blank"><img align="center" src="https://github.com/v-ishnu/gallery/assets/65424078/5bcfad1c-3e2d-4776-bd2b-214a5992731b" alt="vishnuprakash572" height="30" width="40" /></a>
 </p>
 
