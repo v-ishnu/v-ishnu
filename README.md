@@ -28,11 +28,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/v-ishnu/gallery/assets/65424078/868384de-ecc5-4d06-ab8c-ddda051aef06" alt="c" width="40" height="40"/> </a> 
-<a href="https://codr.mrtian.in/category/language/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/v-ishnu/gallery/assets/65424078/01a8b742-9e8c-48e2-925d-c2802e4ee8f0" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://codr.mrtian.in/category/language/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/v-ishnu/gallery/assets/65424078/7544517e-4efd-4f5d-b970-815e20685316" alt="css3" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/v-ishnu/gallery/assets/65424078/868384de-ecc5-4d06-ab8c-ddda051aef06" alt="c" width="40" height="40"/>&nbsp; &nbsp; </a> 
+<a href="https://codr.mrtian.in/category/language/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/v-ishnu/gallery/assets/65424078/01a8b742-9e8c-48e2-925d-c2802e4ee8f0" alt="cplusplus" width="40" height="40"/>&nbsp; &nbsp; </a> 
+<a href="https://codr.mrtian.in/category/language/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/v-ishnu/gallery/assets/65424078/7544517e-4efd-4f5d-b970-815e20685316" alt="css3" width="40" height="40"/>&nbsp; &nbsp;</a> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/v-ishnu/gallery/assets/65424078/6aa6fc0e-5c5c-4739-a9be-1c93eb26b7b2" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://codr.mrtian.in/category/language/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/v-ishnu/gallery/assets/65424078/5a95db38-b333-4705-9346-7ea422e9d576" alt="html5" width="40" height="40"/> </a> 
+<a href="https://codr.mrtian.in/category/language/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/v-ishnu/gallery/assets/65424078/5a95db38-b333-4705-9346-7ea422e9d576" alt="html5" width="40" height="40"/>&nbsp; &nbsp; </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=v-ishnu&show_icons=true&locale=en&layout=compact" alt="v-ishnu" /></p>
