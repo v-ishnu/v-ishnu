@@ -1,3 +1,4 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4](https://camo.githubusercontent.com/9599c3b064e38680f68e77052e104b45d51a5435645794c447b1c53c8816747b/68747470733a2f2f7777772e736576656e73746172776562736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f7468656d65732f736576656e737461722f696d672f62616e6e65722d62672e676966)](https://vishnuprakash.io)
 <h1 align="center">Hi 👋, I'm Vishnu Prakash</h1>
 <h3 align="center">An enthusiastic individual who eagerly embraces emerging trends and technologies in the market, demonstrating a strong desire to continuously expand their knowledge and skills.</h3>
 
@@ -21,6 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+![Instagram](https://github.com/v-ishnu/gallery/assets/65424078/0eb7d9a6-ddcf-4c47-bbac-0ed432ebe225)
+
 <a href="https://codepen.io/v-ishnu" target="blank"><img align="center" src="https://github.com/v-ishnu/gallery/assets/65424078/0eb7d9a6-ddcf-4c47-bbac-0ed432ebe225" alt="v-ishnu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishnuinfo" target="blank"><img align="center" src="https://github.com/v-ishnu/gallery/assets/65424078/87ff9af9-9f0f-4df7-84aa-e0037ef89177" alt="vishnuinfo" height="30" width="40" /></a>
 <a href="https://instagram.com/_im_vishn_u" target="blank"><img align="center" src="https://github.com/v-ishnu/gallery/assets/65424078/1071fee1-bc15-4bf8-8bc0-d3da40b099a3" alt="_im_vishn_u" height="30" width="40" /></a>
