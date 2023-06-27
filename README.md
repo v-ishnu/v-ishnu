@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/v-ishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="v-ishnu" height="30" width="40" /></a>
+<a href="https://codepen.io/v-ishnu" target="blank"><img align="center" src="https://github.com/v-ishnu/gallery/assets/65424078/0eb7d9a6-ddcf-4c47-bbac-0ed432ebe225" alt="v-ishnu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishnuinfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnuinfo" height="30" width="40" /></a>
 <a href="https://instagram.com/_im_vishn_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_im_vishn_u" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vishnuprakash572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishnuprakash572" height="30" width="40" /></a>
