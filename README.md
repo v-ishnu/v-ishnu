@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Mrtian](https://mrtian.in), **[Codr](https://mrtian.codr.in)**
+- 🔭 I’m currently working on **[Mrtian](https://mrtian.in)**, **[Codr](https://codr.mrtian.in)**
 
 - 🌱 I’m currently learning **Dart Language**, **BlockChain**
 
@@ -28,7 +28,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="" alt="c" width="40" height="40"/> </a> 
+ <a href="https://codr.mrtian.in/category/language/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/v-ishnu/gallery/assets/65424078/01a8b742-9e8c-48e2-925d-c2802e4ee8f0" alt="cplusplus" width="40" height="40"/> </a> 
+ <a href="https://codr.mrtian.in/category/language/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/v-ishnu/gallery/assets/65424078/7544517e-4efd-4f5d-b970-815e20685316" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="" alt="flutter" width="40" height="40"/> </a> 
+  <a href="https://codr.mrtian.in/category/language/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/v-ishnu/gallery/assets/65424078/5a95db38-b333-4705-9346-7ea422e9d576" alt="html5" width="40" height="40"/> </a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=v-ishnu&show_icons=true&locale=en&layout=compact" alt="v-ishnu" /></p>
 
