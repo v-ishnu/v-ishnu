@@ -40,3 +40,52 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v-ishnu&show_icons=true&locale=en" alt="v-ishnu" /></p>
 
 <p><img align-item="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v-ishnu&" alt="v-ishnu" /></p>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 5px;
+  width: 710px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+}
+
+.most-used-language,
+.github-stats,
+.github-readme-streak-stats {
+  grid-row: 1;
+}
+
+
+img {
+  max-width: 100%;
+}
+
+</style>
+</head>
+<body>
+
+<div class="container ">
+<div class="most-used-language">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=v-ishnu&show_icons=true&locale=en&layout=compact" alt="v-ishnu" />
+</div>
+<div>
+<div class="github-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=v-ishnu&show_icons=true&locale=en" alt="v-ishnu" />
+</div>
+  </div>
+<div class="github-readme-streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v-ishnu&" alt="v-ishnu" />
+</div>
+</div>
+</div>
+
+</body>
+</html>
+
+
