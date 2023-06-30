@@ -1,12 +1,12 @@
-[![MasterHead](https://camo.githubusercontent.com/9599c3b064e38680f68e77052e104b45d51a5435645794c447b1c53c8816747b/68747470733a2f2f7777772e736576656e73746172776562736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f7468656d65732f736576656e737461722f696d672f62616e6e65722d62672e676966)](https://vishnuprakash.io)
+[![MasterHead](https://camo.githubusercontent.com/9599c3b064e38680f68e77052e104b45d51a5435645794c447b1c53c8816747b/68747470733a2f2f7777772e736576656e73746172776562736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f7468656d65732f736576656e737461722f696d672f62616e6e65722d62672e676966)](https://v-ishnu.github.io/VishnuPrakash/)
 <h1 align="center">Hi 👋, I'm Vishnu Prakash</h1>
 <h3 align="center">An enthusiastic individual who eagerly embraces emerging trends and technologies in the market, demonstrating a strong desire to continuously expand their knowledge and skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-ishnu&label=Profile%20views&color=0e75b6&style=flat" alt="v-ishnu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v-ishnu" alt="v-ishnu" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on **[Mrtian](https://mrtian.in)**, **[Codr](https://codr.mrtian.in)**
 
