@@ -8,9 +8,9 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on **[Mrtian](https://mrtian.in)**, **[Codr](https://codr.mrtian.in)**
+- 🔭 I’m currently working on **[Mrtian](https://mrtian.in)**, **[Codr](https://codr.mrtian.in)**, & **InnovXus**
 
-- 🌱 I’m currently learning **Dart Language**, **BlockChain**
+- 🌱 I’m currently learning **Dart Language**, **BlockChain**, & **App Development**
 
 - 📝 I regularly write articles on **[Mrtian](https://mrtian.in)**
 
