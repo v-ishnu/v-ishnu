@@ -31,18 +31,19 @@ class Developer {
 graph TD
     A[Programming] --> B[Mobile]
     A --> C[Web]
-    A --> D[Machine Learning]
+    A --> D[DevOps]
     
     B --> B1[Flutter]
-    B --> B2[Dart]
+    B --> B2[React Native]
+    B --> B3[NativeScript]
     
-    C --> C1[JavaScript]
-    C --> C2[HTML/CSS]
+    C --> C1[ReactJs]
+    C --> C2[HTML/CSS/Js]
     C --> C3[WordPress]
     
-    D --> D1[Python]
-    D --> D2[TensorFlow]
-    D --> D3[PyTorch]
+    D --> D1[Docker]
+    D --> D2[GitHub Action]
+    D --> D3[Linux]
 
     classDef main fill:#1f2937,stroke:#fbbf24,stroke-width:2px,color:#ffffff,rx:10px,ry:10px;
     classDef mobile fill:#374151,stroke:#22d3ee,stroke-width:2px,color:#ffffff,rx:10px,ry:10px;
