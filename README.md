@@ -89,7 +89,7 @@ graph TD
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=v-ishnu&theme=tokyonight" alt="GitHub Streak" /></a>
   &nbsp;&nbsp;
-  <img src="https://api.daily.dev/devcards/v2/zMBxqYhviVYYzB8H4yoSe.png?type=default" width="200" alt="Nakul Dev's Dev Card"/>
+  
 </div>
 
 ## 🤝 Connect With Me
