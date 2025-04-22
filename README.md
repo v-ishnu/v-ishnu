@@ -15,12 +15,12 @@
 ```typescript
 class Developer {
     name: string = "Vishnu Prakash";
-    role: string = "(Flutter | React Native | NativeScript ) Developer";
+    role: string = "Native App Developer";
     location: string = "India";
-    workingOn: string = "VenSync";
-    workingOnUrl: string = "https://github.com/v-ishnu/VenSync"
+    startUp: string = "Dinestx";
+    workingOnUrl: string = "https://github.com/Dinestx";
     learning: string[] = ["Flutter", "React Native", "NativeScript", "DevOps"];
-    askMeAbout: string[] = ["Web Dev", "App Dev", "DevOps", "Entrepreneur", "Taxation"];
+    askMeAbout: string[] = ["Web Dev", "App Dev", "DevOps", "Entrepreneur"];
 }
 ```
 
